@@ -1,8 +1,8 @@
 {
-  "name": "nestjs-boilerplate-microservice-api",
+  "name": "nestjs-microservice",
   "version": "1.14.0",
   "description": "Nestjs boilerplate api",
-  "author": "mike.rodrigues.lima@gmail.com",
+  "author": "Solomon Olatunji <realsolomon@outlook.com>",
   "private": true,
   "license": "MIT",
   "scripts": {

@@ -2,7 +2,7 @@
 
 In this microservice I used the best architecture concepts: onion architecture, DDD and clean architecture.
 
-#### This microservice has only been tested on Linux and WSL2. If you have connection problems with Mongodb(replicaset) use this branch: [branch](https://github.com/mikemajesty/nestjs-microservice-boilerplate-api/tree/feat/no-replica-set).
+## This microservice has only been tested on Linux and WSL2. If you have connection problems with Mongodb(replicaset) use this branch: [branch](https://github.com/eminisolomon/nestjs-microservice/tree/feat/no-replica-set)
 
 | Statements                                                                               | Branches                                                                             | Functions                                                                              | Lines                                                                          |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -11,9 +11,11 @@ In this microservice I used the best architecture concepts: onion architecture, 
 ### Building and Running the application
 
 - install dependencies
-  ```
+
+  ```bash
   $ yarn
   ```
+  
 - infra
   ```
    $ yarn infra
@@ -383,10 +385,6 @@ Creating a CRUD in Postgres and Mongo in seconds.
 ```
 
 ---
-
-The following is a list of all the people that have contributed Nestjs monorepo boilerplate. Thanks for your contributions!
-
-[<img alt="mikemajesty" src="https://avatars1.githubusercontent.com/u/11630212?s=460&v=4&s=117" width="117">](https://github.com/mikemajesty)
 
 ## License
 
